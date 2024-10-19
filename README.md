@@ -1,5 +1,3 @@
-# [Motion](https://motion.salimi.my) &middot; [![Author Salimi](https://img.shields.io/badge/Author-Salimi-%3C%3E)](https://www.linkedin.com/in/mohamad-salimi/)
-
 This is a Notion clone app created using Next.js for educational purposes. Motion is a productivity and note-taking web application. It offers organizational tools including task management, project tracking, to-do lists, and bookmarking.
 
 ## Notion Clone
@@ -38,9 +36,9 @@ npx convex dev
 
 ## Demo
 
-The app is hosted on Vercel. [Click here](https://motion.salimi.my) to visit.
+The app is hosted on Vercel. [Click here](https://motion.michal.dbrown) to visit.
 <br>
-Direct link: `https://motion.salimi.my`
+Direct link: `https://motion.michael.dbrown`
 
 ## Screenshots
 
